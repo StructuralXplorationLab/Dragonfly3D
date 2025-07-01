@@ -1,2 +1,1 @@
-# Dragonfly3D
-exploration and form-finding of structural forms
+![](images/d3d_text.png)
